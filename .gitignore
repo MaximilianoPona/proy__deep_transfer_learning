@@ -1,0 +1,6 @@
+datasets/
+datasets
+.DS_Store
+training_examples.pickle
+training_labels.pickle
+variables_entorno.txt
