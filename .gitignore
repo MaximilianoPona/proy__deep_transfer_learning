@@ -4,3 +4,4 @@ datasets
 training_examples.pickle
 training_labels.pickle
 variables_entorno.txt
+predict_test.ipynb
